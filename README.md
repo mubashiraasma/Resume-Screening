@@ -19,7 +19,7 @@ This Resume Screening System is designed to classify resumes into various job ca
 - Seaborn
 
 ## Dataset
-The dataset consists of resumes and their corresponding job categories. Ensure that the dataset is in a structured format suitable for processing.
+The Dataset is downloaded from kaggle. It consists of resumes and their corresponding job categories.
 
 ## Model Training and Evaluation
 The model is trained using a Random Forest Classifier with features engineered using Word2Vec, and LDA. Performance is evaluated using metrics such as accuracy, precision, recall, and F1-score.
